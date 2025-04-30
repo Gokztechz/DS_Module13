@@ -21,11 +21,6 @@ To write a C program to implement Tower of Hanoi
 Program to implement Tower of Hanoi
 Developed by:GOKUL SHARAN R
 RegisterNumber: 212223040052
-```
-/*
-Program to implement Tower of Hanoi
-Developed by: Alan Samuel Vedanayagam
-RegisterNumber: 212223040012
 */
 ```
 ```
@@ -51,9 +46,6 @@ int main()
    TOH(n,x,y,z); 
 }
 ```
-*/
-```
-
 ## Output:
 ![image](https://github.com/user-attachments/assets/1a90008b-60d9-49ca-b4af-72464221c80e)
 
