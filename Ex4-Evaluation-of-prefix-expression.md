@@ -1,4 +1,4 @@
-# EX 1(D) Evaluation of prefix expression
+# EX4 Evaluation of prefix expression
 ## DATE:26.02.25
 ## AIM:
 To write a C function to evaluate the given prefix expression using stack and print the output of the given prefix expression from the stack inside the function . 
