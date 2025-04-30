@@ -18,6 +18,9 @@ To write a C program to convert the infix expression into postfix form using sta
 Program to convert the infix expression into postfix expression
 Developed by: GOKUL SHARAN R
 RegisterNumber: 212223040052
+*/
+```
+```
 #include<stdio.h>
 #include<ctype.h>
 char stack[100];
@@ -95,7 +98,7 @@ char exp[100]="3%2+4*(A&B)";
 IntoPost(exp);
 return 1;
 }
-*/
+
 ```
 
 ## Output:
